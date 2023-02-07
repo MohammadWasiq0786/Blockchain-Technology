@@ -5,5 +5,5 @@
 I'm very very thankful to
 
 [**Professor Mohammad Sajid**](https://www.amu.ac.in/faculty/computer-science/mohammad-sajid)
-<br> Department of Computer Science
-<br> Aligarh Muslim University , Aligarh(202002)
+<br> **Department of Computer Science**
+<br> **Aligarh Muslim University , Aligarh(202002)**
